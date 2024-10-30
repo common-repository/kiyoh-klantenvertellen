@@ -1,0 +1,8 @@
+<wpml-config>
+  <admin-texts>
+    <key name="kk_plugin_settings_emails">
+      <key name="emails_subject"/>
+      <key name="emails_body"/>
+    </key>
+  </admin-texts>
+</wpml-config>

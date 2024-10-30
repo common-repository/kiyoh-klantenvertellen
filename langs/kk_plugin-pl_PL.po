@@ -1,0 +1,1244 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: KiyOh / Klantenvertellen\n"
+"POT-Creation-Date: 2020-03-14 10:50+0100\n"
+"PO-Revision-Date: 2020-03-14 11:36+0100\n"
+"Last-Translator: Davey | WP Fortune <davey@wpfortune.com>\n"
+"Language-Team: PEP <bart@pepbc.nl>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _;__;_e;_x;_n:1,2;_n_noop:1,2;_nx:1,2;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-kiyoh-klantenvertellen-plugin.php:167
+msgid "Layout not available, please use"
+msgstr ""
+
+#: includes/class-kiyoh-klantenvertellen-plugin.php:179
+#, php-format
+msgid "No data found, please check your %s settings"
+msgstr ""
+
+#: includes/class-kiyoh-klantenvertellen-plugin.php:1225
+msgid "Error"
+msgstr "Błąd"
+
+#: includes/class-kiyoh-klantenvertellen-plugin.php:1244
+msgid "Settings"
+msgstr ""
+
+#: includes/class-kiyoh-klantenvertellen-plugin.php:1303
+#: includes/class-kiyoh-klantenvertellen-plugin.php:1758
+#: includes/class-widget.php:60 includes/class-widget.php:83
+#: includes/class-widget.php:117 includes/class-widget.php:137
+#: includes/class-widget.php:147 includes/class-widget.php:157
+#: includes/class-widget.php:187 includes/class-widget.php:197
+#: includes/class-widget.php:207
+msgid "Yes"
+msgstr "Tak"
+
+#: includes/class-kiyoh-klantenvertellen-plugin.php:1304
+#: includes/class-kiyoh-klantenvertellen-plugin.php:1760
+#: includes/class-widget.php:59 includes/class-widget.php:84
+#: includes/class-widget.php:118 includes/class-widget.php:138
+#: includes/class-widget.php:148 includes/class-widget.php:158
+#: includes/class-widget.php:188 includes/class-widget.php:198
+#: includes/class-widget.php:208
+msgid "No"
+msgstr "Nie"
+
+#: includes/class-kiyoh-klantenvertellen-plugin.php:1306
+msgid "Would you recommend us?"
+msgstr "Poleciłbyś nas?"
+
+#: includes/class-kiyoh-klantenvertellen-plugin.php:1588
+msgid "n/a"
+msgstr "niedostępne"
+
+#: includes/class-kiyoh-klantenvertellen-plugin.php:1787
+#, php-format
+msgid "%s will stop using the old XML method from March 2020."
+msgstr ""
+
+#: includes/class-kiyoh-klantenvertellen-plugin.php:1787
+msgid "Please switch to the new API method on time."
+msgstr ""
+
+#: includes/class-settings-page.php:72 views/admin/settings.php:7
+msgid "KiyOh / Klantenvertellen"
+msgstr ""
+
+#: includes/class-settings-page.php:125
+msgid "Cache successfully cleared"
+msgstr ""
+
+#: includes/class-settings-page.php:168 views/admin/settings-general.php:23
+#: views/admin/settings.php:10
+msgid "General"
+msgstr ""
+
+#: includes/class-settings-page.php:178
+msgid "KiyOh or Klantenvertellen"
+msgstr ""
+
+#: includes/class-settings-page.php:199 views/admin/settings-emails.php:13
+msgid "E-mails"
+msgstr ""
+
+#: includes/class-settings-page.php:210
+msgid "Enable e-mail"
+msgstr ""
+
+#: includes/class-settings-page.php:218
+msgid "E-mail subject"
+msgstr ""
+
+#: includes/class-settings-page.php:226
+msgid "E-mail text"
+msgstr ""
+
+#: includes/class-settings-page.php:234
+msgid "Send e-mail after"
+msgstr ""
+
+#: includes/class-settings-page.php:242
+msgid "Only send to"
+msgstr ""
+
+#: includes/class-settings-page.php:263
+#: views/admin/settings-default-settings.php:13
+msgid "Layout settings"
+msgstr ""
+
+#: includes/class-settings-page.php:301
+#: views/admin/settings-default-settings.php:27
+msgid "Debug settings"
+msgstr ""
+
+#: includes/class-settings-page.php:308
+msgid "Debug modus"
+msgstr ""
+
+#: includes/class-settings-page.php:317
+msgid "Show review ID"
+msgstr ""
+
+#: includes/class-settings-page.php:332
+msgid "Single Review settings"
+msgstr ""
+
+#: includes/class-settings-page.php:376 includes/class-settings-page.php:408
+#, php-format
+msgid "Show: \"%s\""
+msgstr ""
+
+#: includes/class-settings-page.php:378 includes/class-settings-page.php:410
+#, php-format
+msgid "Question type: %s"
+msgstr ""
+
+#: includes/class-settings-page.php:390 includes/class-settings-page.php:422
+#, php-format
+msgid "Show star rating for \"%s\""
+msgstr ""
+
+#: includes/class-settings-page.php:391 includes/class-settings-page.php:423
+#, php-format
+msgid "Show or hide star rating of question \"%s\"."
+msgstr ""
+
+#: includes/class-settings-page.php:451 includes/class-settings-page.php:1351
+#: views/admin/settings-general.php:34 views/admin/settings-general.php:77
+msgid "KiyOh settings"
+msgstr ""
+
+#: includes/class-settings-page.php:460 includes/class-settings-page.php:500
+msgid "Connector code"
+msgstr ""
+
+#: includes/class-settings-page.php:468 includes/class-settings-page.php:508
+msgid "Company ID"
+msgstr ""
+
+#: includes/class-settings-page.php:490 views/admin/settings-general.php:106
+msgid "KiyOh.com settings"
+msgstr ""
+
+#: includes/class-settings-page.php:530 includes/class-settings-page.php:591
+#: includes/class-settings-page.php:1221 views/admin/settings-general.php:56
+#: views/admin/settings-general.php:135
+msgid "Klantenvertellen settings"
+msgstr ""
+
+#: includes/class-settings-page.php:542
+msgid "My Klantenvertellen url"
+msgstr ""
+
+#: includes/class-settings-page.php:550 includes/class-settings-page.php:608
+msgid "Company name"
+msgstr ""
+
+#: includes/class-settings-page.php:558
+msgid "Name field"
+msgstr ""
+
+#: includes/class-settings-page.php:566
+msgid "Opinion field"
+msgstr ""
+
+#: includes/class-settings-page.php:601
+msgid "My Mobiliteit XML feed"
+msgstr ""
+
+#: includes/class-settings-page.php:632 views/admin/settings-general.php:193
+msgid "Klantenvertellen (V2) settings"
+msgstr ""
+
+#: includes/class-settings-page.php:660
+msgid "XML-feed"
+msgstr ""
+
+#: includes/class-settings-page.php:668
+msgid "URL to review page"
+msgstr ""
+
+#: includes/class-settings-page.php:688
+msgid "Off"
+msgstr ""
+
+#: includes/class-settings-page.php:689
+msgid "On"
+msgstr ""
+
+#: includes/class-settings-page.php:691
+msgid ""
+"When enabled plugin will check for new reviews every page request. This "
+"might slow down your website."
+msgstr ""
+
+#: includes/class-settings-page.php:707
+msgid "Hide review IDs"
+msgstr ""
+
+#: includes/class-settings-page.php:708
+msgid "Show review IDs"
+msgstr ""
+
+#: includes/class-settings-page.php:710
+msgid "When enabled plugin will show review ID below each review."
+msgstr ""
+
+#: includes/class-settings-page.php:733
+msgid "Pro only"
+msgstr ""
+
+#: includes/class-settings-page.php:782
+msgid "All numbers of reviews before this number will be skipped."
+msgstr ""
+
+#: includes/class-settings-page.php:784
+msgid "Leave empty or use 0 to show the full text."
+msgstr ""
+
+#: includes/class-settings-page.php:803
+msgid "Old deprecated methods"
+msgstr ""
+
+#: includes/class-settings-page.php:804
+msgid "KiyOh.nl"
+msgstr ""
+
+#: includes/class-settings-page.php:805
+msgid "KiyOh.com"
+msgstr ""
+
+#: includes/class-settings-page.php:806
+msgid "Klantenvertellen"
+msgstr ""
+
+#: includes/class-settings-page.php:807
+msgid "Klantenvertellen (Mobiliteit)"
+msgstr ""
+
+#: includes/class-settings-page.php:808
+msgid "Klantenvertellen (V2)"
+msgstr ""
+
+#: includes/class-settings-page.php:812
+msgid "Choose if you're using KiyOh or Klantenvertellen"
+msgstr ""
+
+#: includes/class-settings-page.php:829 includes/class-settings-page.php:864
+#, php-format
+msgid "You can find the connector code on \"your account\" by logging in on %s"
+msgstr ""
+
+#: includes/class-settings-page.php:846 includes/class-settings-page.php:881
+#, php-format
+msgid "You can find the Company ID on \"your account\" by logging in on %s"
+msgstr ""
+
+#: includes/class-settings-page.php:901 includes/class-settings-page.php:1050
+msgid "Fill in your company name"
+msgstr ""
+
+#: includes/class-settings-page.php:917
+#, php-format
+msgid ""
+"For example: Is your personal klantenvertellen url %s? Then you fill in \"%s"
+"\""
+msgstr ""
+
+#: includes/class-settings-page.php:937
+msgid "No review text available"
+msgstr ""
+
+#: includes/class-settings-page.php:944
+#, php-format
+msgid ""
+"Choose the field that is used to show the contents of the review. This is "
+"usually \"%s\" or \"%s\"."
+msgstr ""
+
+#: includes/class-settings-page.php:948
+msgid ""
+"No data available. Your account need to have reviews before this is "
+"available."
+msgstr ""
+
+#: includes/class-settings-page.php:970
+msgid "No name available / Anonymous"
+msgstr ""
+
+#: includes/class-settings-page.php:977
+#, php-format
+msgid ""
+"Choose the field that is used to show the (first) name of the reviewer. This "
+"is usually \"%s\"."
+msgstr ""
+
+#: includes/class-settings-page.php:981
+msgid "No data available. You need to have reviews before this is available."
+msgstr ""
+
+#: includes/class-settings-page.php:1034
+msgid ""
+"You can find the link to your XML feed in your Klantenvertellen Mobiliteit "
+"account. If you cannot find this, you can contact your Klantenvertellen "
+"account manager."
+msgstr ""
+
+#: includes/class-settings-page.php:1064
+#, php-format
+msgid "A Klantenvertellen XML-feed starts with %s."
+msgstr ""
+
+#: includes/class-settings-page.php:1065
+#, php-format
+msgid ""
+"You can find the XML-feed on \"your account\" under \"Publication options\" "
+"by logging in on %s."
+msgstr ""
+
+#: includes/class-settings-page.php:1066
+#, php-format
+msgid "Can't find your XML-feed? Contact your %s."
+msgstr ""
+
+#: includes/class-settings-page.php:1066
+msgid "Klantenvertellen accountmanager"
+msgstr ""
+
+#: includes/class-settings-page.php:1080
+msgid "Enter complete URL to your Klantenvertellen review page."
+msgstr ""
+
+#: includes/class-settings-page.php:1081
+#, php-format
+msgid "URL to review page starts with %s."
+msgstr ""
+
+#: includes/class-settings-page.php:1097
+msgid "Enable"
+msgstr ""
+
+#: includes/class-settings-page.php:1099
+msgid ""
+"Enable an automatic invite e-mail which will be send after a WooCommerce "
+"order has been completed."
+msgstr ""
+
+#: includes/class-settings-page.php:1133
+msgid "Don't forget to insert your Easy Invite link inside the mail."
+msgstr ""
+
+#: includes/class-settings-page.php:1134
+#, php-format
+msgid ""
+"You can use the following tags to replace with order data: %s = billing full "
+"name, %s = billing first name, %s = billing last name, %s = billing email, "
+"%s = billing city, %s = order date, %s = order completed date."
+msgstr ""
+
+#: includes/class-settings-page.php:1135
+#, php-format
+msgid ""
+"Use %s inside your Easy Invite link add all product ID from your order to "
+"your review."
+msgstr ""
+
+#: includes/class-settings-page.php:1136
+#, php-format
+msgid "Example Easy Invite link: %s."
+msgstr ""
+
+#: includes/class-settings-page.php:1149
+msgid "day(s)"
+msgstr ""
+
+#: includes/class-settings-page.php:1149
+msgid "after an order has been marked as completed."
+msgstr ""
+
+#: includes/class-settings-page.php:1150
+msgid ""
+"Leave empty or enter 0 to send immediately after an order has been marked as "
+"completed. The e-mail queue will be processed twice a day."
+msgstr ""
+
+#: includes/class-settings-page.php:1160
+msgid "Guest"
+msgstr ""
+
+#: includes/class-settings-page.php:1168
+msgid "Only send e-mails to guests or customers with a specific role."
+msgstr ""
+
+#: includes/class-settings-page.php:1190
+#, php-format
+msgid "Last check: %s ago"
+msgstr ""
+
+#: includes/class-settings-page.php:1198
+msgid ""
+"Warning! Debugging mode is turned on. This may cause unexpected problems."
+msgstr ""
+
+#: includes/class-settings-page.php:1230
+msgid "Klantenvertellen API Token"
+msgstr ""
+
+#: includes/class-settings-page.php:1239
+msgid "Klantenvertellen Location ID"
+msgstr ""
+
+#: includes/class-settings-page.php:1257 includes/class-settings-page.php:1387
+msgid "Show backup data"
+msgstr ""
+
+#: includes/class-settings-page.php:1266 includes/class-settings-page.php:1396
+msgid "Refresh rate"
+msgstr ""
+
+#: includes/class-settings-page.php:1287 includes/class-settings-page.php:1417
+#, php-format
+msgid "Contact %s and ask your %s accountmanager for your API Token."
+msgstr ""
+
+#: includes/class-settings-page.php:1303 includes/class-settings-page.php:1433
+msgid ""
+"The Location ID is the number combination that you also see at the invite "
+"link or review page in the URL."
+msgstr ""
+
+#: includes/class-settings-page.php:1333 includes/class-settings-page.php:1463
+#, php-format
+msgid "Old %s backup exists. Show old review data below new review data."
+msgstr ""
+
+#: includes/class-settings-page.php:1333 includes/class-settings-page.php:1463
+#: includes/class-settings-page.php:1500
+msgid "(PRO only)"
+msgstr ""
+
+#: includes/class-settings-page.php:1360
+msgid "KiyOh API Token"
+msgstr ""
+
+#: includes/class-settings-page.php:1369
+msgid "KiyOh Location ID"
+msgstr ""
+
+#: includes/class-settings-page.php:1470
+msgid "Rating"
+msgstr ""
+
+#: includes/class-settings-page.php:1473
+msgid "Text"
+msgstr ""
+
+#: includes/class-settings-page.php:1476
+msgid "Yes or No"
+msgstr ""
+
+#: includes/class-settings-page.php:1479
+msgid "Image"
+msgstr ""
+
+#: includes/class-settings-page.php:1483
+msgid "Selection"
+msgstr ""
+
+#: includes/class-settings-page.php:1486
+msgid "Unknown"
+msgstr ""
+
+#: includes/class-settings-page.php:1500
+msgid "hours"
+msgstr ""
+
+#: includes/class-settings-page.php:1502
+#, php-format
+msgid "Refresh reviews each %d hours."
+msgstr ""
+
+#: includes/class-settings-page.php:1502
+msgid ""
+"Lower refresh rates (< 6 hours) can lead to connection problems. We advise "
+"to set refresh rate as high as possible."
+msgstr ""
+
+#: includes/class-shortcode.php:116
+msgid "No ID specified"
+msgstr ""
+
+#: includes/class-widget.php:43
+msgid "Layout"
+msgstr ""
+
+#: includes/class-widget.php:48
+msgid "Default"
+msgstr ""
+
+#: includes/class-widget.php:49
+msgid "Slider"
+msgstr ""
+
+#: includes/class-widget.php:50
+msgid "List"
+msgstr ""
+
+#: includes/class-widget.php:54
+msgid "Auto slide"
+msgstr ""
+
+#: includes/class-widget.php:67
+msgid "Review display options"
+msgstr ""
+
+#: includes/class-widget.php:72
+msgid "Hide reviews without rating"
+msgstr ""
+
+#: includes/class-widget.php:73
+msgid "Hide reviews without review text"
+msgstr ""
+
+#: includes/class-widget.php:74
+msgid "Hide reviews without author"
+msgstr ""
+
+#: includes/class-widget.php:78
+msgid "Show average stars"
+msgstr ""
+
+#: includes/class-widget.php:88
+msgid "Star theme"
+msgstr ""
+
+#: includes/class-widget.php:93
+msgid "Yellow + gray"
+msgstr ""
+
+#: includes/class-widget.php:94
+msgid "Yellow"
+msgstr ""
+
+#: includes/class-widget.php:95
+msgid "Black + gray"
+msgstr ""
+
+#: includes/class-widget.php:96
+msgid "Black"
+msgstr ""
+
+#: includes/class-widget.php:97
+msgid "White"
+msgstr ""
+
+#: includes/class-widget.php:101
+msgid "Stars size"
+msgstr ""
+
+#: includes/class-widget.php:106
+msgid "Small"
+msgstr ""
+
+#: includes/class-widget.php:107
+msgid "Medium"
+msgstr ""
+
+#: includes/class-widget.php:108
+msgid "Large"
+msgstr ""
+
+#: includes/class-widget.php:112
+msgid "Show logo"
+msgstr ""
+
+#: includes/class-widget.php:122
+msgid "Logo type"
+msgstr ""
+
+#: includes/class-widget.php:127
+msgid "Image only"
+msgstr ""
+
+#: includes/class-widget.php:128
+msgid "Full logo"
+msgstr ""
+
+#: includes/class-widget.php:132
+msgid "Show summary"
+msgstr ""
+
+#: includes/class-widget.php:142
+msgid "Show date"
+msgstr ""
+
+#: includes/class-widget.php:152
+msgid "Show reviews"
+msgstr ""
+
+#: includes/class-widget.php:162
+msgid "Show x reviews"
+msgstr ""
+
+#: includes/class-widget.php:168
+msgid "Start with review x"
+msgstr ""
+
+#: includes/class-widget.php:175
+msgid "Limit review length at x words"
+msgstr ""
+
+#: includes/class-widget.php:182
+msgid "Show average score"
+msgstr ""
+
+#: includes/class-widget.php:192
+msgid "Show single review score"
+msgstr ""
+
+#: includes/class-widget.php:202
+msgid "Show single review stars"
+msgstr ""
+
+#: mso-kiyoh-klantenvertellen.php:36
+msgid "Rate us!"
+msgstr "Oceń nas!"
+
+#: mso-kiyoh-klantenvertellen.php:37
+msgid ""
+"Dear customer,\n"
+"\n"
+"Please give us a rating if you're pleased with our products and/or "
+"services.\n"
+"\n"
+"Click the link below to write a review:\n"
+"Add your link here"
+msgstr ""
+"Drogi Kliencie,\n"
+"\n"
+"Daj nam ocenę, jeśli jesteś zadowolony z naszych produktów i / lub usług.\n"
+"\n"
+"Kliknij poniższy link, aby napisać recenzję:\n"
+"Dodaj swój link tutaj"
+
+#: templates/default.php:76 templates/list.php:78 templates/slider.php:86
+msgid "View our results"
+msgstr "Zobacz nasze wyniki"
+
+#: templates/default.php:87 templates/list.php:89
+#: templates/shortcodes/summary.php:15 templates/slider.php:105
+#, php-format
+msgid "%s customer rates us with a %s"
+msgid_plural "%s customers rate us with a %s"
+msgstr[0] "1 klient ocenia nas 5"
+msgstr[1] "%s klientów ocenia nas na %s"
+
+#: templates/default.php:92 templates/list.php:94 templates/slider.php:111
+msgid "View on"
+msgstr "Widok na"
+
+#: templates/shortcodes/stats.php:22
+msgid "reviews"
+msgstr "recenzje"
+
+#: templates/shortcodes/stats.php:24
+msgid "Last review:"
+msgstr "Ostatnia recenzja:"
+
+#: templates/shortcodes/stats.php:24
+#, php-format
+msgid "%s ago"
+msgstr "%s temu"
+
+#: templates/shortcodes/stats.php:42
+#, php-format
+msgid "%d%% recommends %s"
+msgstr "%d%% poleca %s"
+
+#: templates/single-review.php:58
+msgid "Response from the company"
+msgstr "Odpowiedź firmy"
+
+#: templates/single-review.php:67
+#, php-format
+msgid "Would you recommend us? %s"
+msgstr "Poleciłbyś nas? %s"
+
+#: templates/single-review.php:149
+msgid "ID"
+msgstr ""
+
+#: views/admin/settings-default-settings.php:21
+msgid "Custom review questions"
+msgstr ""
+
+#: views/admin/settings-default-settings.php:22
+#, php-format
+msgid "Show custom review questions and answers with our %s."
+msgstr ""
+
+#: views/admin/settings-default-settings.php:22 views/admin/settings-help.php:4
+#: views/admin/settings.php:37
+msgid "Premium plugin"
+msgstr ""
+
+#: views/admin/settings-default-settings.php:34
+msgid "Example"
+msgstr ""
+
+#: views/admin/settings-default-settings.php:35
+msgid "The ID as shown for each review is not visible on the frontend."
+msgstr ""
+
+#: views/admin/settings-general.php:16
+msgid "You use an outdated method to collect customer reviews."
+msgstr ""
+
+#: views/admin/settings-general.php:16
+msgid "Contact your KiyOh / Klantenvertellen account manager for new API data."
+msgstr ""
+
+#: views/admin/settings-general.php:16
+msgid "Then choose the new API method for KiyOh or Klantenvertellen below."
+msgstr ""
+
+#: views/admin/settings-general.php:37 views/admin/settings-general.php:80
+msgid "Connection with KiyOh: OK."
+msgstr ""
+
+#: views/admin/settings-general.php:39 views/admin/settings-general.php:82
+msgid "Cannot connect to KiyOh, please check your settings or try again later."
+msgstr ""
+
+#: views/admin/settings-general.php:59 views/admin/settings-general.php:138
+msgid "Connection with Klantenvertellen: OK."
+msgstr ""
+
+#: views/admin/settings-general.php:61 views/admin/settings-general.php:140
+msgid ""
+"Cannot connect to Klantenvertellen, please check your settings or try again "
+"later."
+msgstr ""
+
+#: views/admin/settings-general.php:90 views/admin/settings-general.php:119
+#: views/admin/settings-general.php:148 views/admin/settings-general.php:177
+msgid "Back-up old feed"
+msgstr ""
+
+#: views/admin/settings-general.php:91 views/admin/settings-general.php:120
+#: views/admin/settings-general.php:149 views/admin/settings-general.php:178
+#, php-format
+msgid ""
+"From May 2019, %s has started migrating all customer reviews to a new "
+"platform."
+msgstr ""
+
+#: views/admin/settings-general.php:92 views/admin/settings-general.php:121
+#: views/admin/settings-general.php:150 views/admin/settings-general.php:179
+#, php-format
+msgid "%s will stop using the old XML method from mid-September."
+msgstr ""
+
+#: views/admin/settings-general.php:94 views/admin/settings-general.php:123
+#: views/admin/settings-general.php:152 views/admin/settings-general.php:181
+msgid "OK: A backup of all customer reviews already exists."
+msgstr ""
+
+#: views/admin/settings-general.php:94 views/admin/settings-general.php:123
+#: views/admin/settings-general.php:152 views/admin/settings-general.php:181
+msgid ""
+"You may now switch to the new API method to receive your new customer "
+"reviews."
+msgstr ""
+
+#: views/admin/settings-general.php:109
+msgid "Connection with KiyOh.com: OK."
+msgstr ""
+
+#: views/admin/settings-general.php:111
+msgid ""
+"Cannot connect to KiyOh.com, please check your settings or try again later."
+msgstr ""
+
+#: views/admin/settings-general.php:164
+msgid "Klantenvertellen (Mobiliteit) settings"
+msgstr ""
+
+#: views/admin/settings-general.php:167
+msgid "Connection with Klantenvertellen (Mobiliteit): OK."
+msgstr ""
+
+#: views/admin/settings-general.php:169
+msgid ""
+"Cannot connect to Klantenvertellen (Mobiliteit), please check your settings "
+"or try again later."
+msgstr ""
+
+#: views/admin/settings-general.php:196
+msgid "Connection with Klantenvertellen (V2): OK."
+msgstr ""
+
+#: views/admin/settings-general.php:198
+msgid "Cannot connect to Klantenvertellen (V2), please check your XML-feed."
+msgstr ""
+
+#: views/admin/settings-general.php:214
+msgid "Refresh results / clear cache"
+msgstr ""
+
+#: views/admin/settings-general.php:215
+msgid ""
+"Click this button to refresh the review results manually. Review results "
+"will be automatically refreshed once a day."
+msgstr ""
+
+#: views/admin/settings-help.php:1 views/admin/settings.php:34
+msgid "Need support?"
+msgstr ""
+
+#: views/admin/settings-help.php:2 views/admin/settings.php:35
+#, php-format
+msgid ""
+"Need support with this plugin? Use the %s and we will reply within 7 days."
+msgstr ""
+
+#: views/admin/settings-help.php:2 views/admin/settings.php:35
+msgid "WordPress.org forums"
+msgstr ""
+
+#: views/admin/settings-help.php:3 views/admin/settings.php:36
+msgid "Get priority support!"
+msgstr ""
+
+#: views/admin/settings-help.php:4 views/admin/settings.php:37
+#, php-format
+msgid ""
+"Or checkout our %s and get support by priority support by mail within 2 "
+"workdays."
+msgstr ""
+
+#: views/admin/settings-help.php:5 views/admin/settings.php:38
+msgid "No support by phone"
+msgstr ""
+
+#: views/admin/settings-help.php:6 views/admin/settings.php:39
+#, php-format
+msgid "You may always call us for new projects, but unfortunately we %s"
+msgstr ""
+
+#: views/admin/settings-help.php:6 views/admin/settings.php:39
+msgid "cannot provide support by phone."
+msgstr ""
+
+#: views/admin/settings-help.php:6 views/admin/settings.php:39
+msgid "Please don't call us for plugin related questions."
+msgstr ""
+
+#: views/admin/settings-help.php:8
+msgid "How to use"
+msgstr ""
+
+#: views/admin/settings-help.php:9
+msgid "You can use this plugin in 2 ways:"
+msgstr ""
+
+#: views/admin/settings-help.php:11
+msgid "By a shortcode, so you can show your reviews inside a text."
+msgstr ""
+
+#: views/admin/settings-help.php:12
+msgid ""
+"By using a PHP function, so you can show your reviews inside your theme."
+msgstr ""
+
+#: views/admin/settings-help.php:15
+msgid "Shortcode"
+msgstr ""
+
+#: views/admin/settings-help.php:16
+#, php-format
+msgid ""
+"With a shortcode you can show the customer reviews in a normal text, on a "
+"page or a post for example. The shortcode you can use is %s. This shortcode "
+"uses the default settings by default. The default settings are adjustable "
+"per shortcode. You can use the following options for this."
+msgstr ""
+
+#: views/admin/settings-help.php:17
+msgid "Shortcode options"
+msgstr ""
+
+#: views/admin/settings-help.php:37
+msgid "Define color of single review rating. HTML color, example: #000000"
+msgstr ""
+
+#: views/admin/settings-help.php:38
+msgid "id of review to show a single review"
+msgstr ""
+
+#: views/admin/settings-help.php:40
+msgid "Shortcode example"
+msgstr ""
+
+#: views/admin/settings-help.php:42
+msgid "Show a single review"
+msgstr ""
+
+#: views/admin/settings-help.php:43
+msgid ""
+"To show a single review, you can use the id option in the shortcode above or "
+"alternatively you can use the shortcode below. The shortcode below shows a "
+"more simple version of a single review. You need to have the id of a single "
+"review to show this."
+msgstr ""
+
+#: views/admin/settings-help.php:44
+msgid "ID here"
+msgstr ""
+
+#: views/admin/settings-help.php:46
+msgid "Show global rating summary"
+msgstr ""
+
+#: views/admin/settings-help.php:49
+msgid "Show rating statistics"
+msgstr ""
+
+#: views/admin/settings-help.php:50
+msgid "Use shortcode below to show rating statistics on a page."
+msgstr ""
+
+#: views/admin/settings-help.php:50
+msgid ""
+"Tip: Create a new page in WordPress and add shortcodes to create a review "
+"page with all reviews."
+msgstr ""
+
+#: views/admin/settings-help.php:53
+msgid "Widget"
+msgstr ""
+
+#: views/admin/settings-help.php:53
+msgid "(Deprecated)"
+msgstr ""
+
+#: views/admin/settings-help.php:54
+#, php-format
+msgid ""
+"Show customer reviews in a widget. Go to Appearance &#8594; Widgets or use "
+"the %s."
+msgstr ""
+
+#: views/admin/settings-help.php:54
+msgid "WordPress Customizer"
+msgstr ""
+
+#: views/admin/settings-help.php:55
+msgid ""
+"The widget uses the default settings by default, but you can override this "
+"per widget."
+msgstr ""
+
+#: views/admin/settings-help.php:56
+msgid ""
+"We do not advise to use the widget anymore. Please use a shortcode inside a "
+"default text widget."
+msgstr ""
+
+#: views/admin/settings-help.php:58
+msgid "Where to find the review id?"
+msgstr ""
+
+#: views/admin/settings-help.php:59
+msgid ""
+"You can find the id of a single review in the example on the 'Default "
+"settings' tabs in the plugin settings or you can use the link below to "
+"lookup the id in the actual data"
+msgstr ""
+
+#: views/admin/settings-help.php:103
+msgid ""
+"Link not available, please fill in your account settings on the general "
+"settings tab."
+msgstr ""
+
+#: views/admin/settings-help.php:109
+msgid "PHP code for developers"
+msgstr ""
+
+#: views/admin/settings-help.php:110
+msgid ""
+"With the following PHP code you can show your customer reviews inside your "
+"theme. The shortcode accepts all options as described above."
+msgstr ""
+
+#: views/admin/settings-help.php:112
+msgid "Disabling styling (CSS)"
+msgstr ""
+
+#: views/admin/settings-help.php:113
+msgid ""
+"To disable the default styling (CSS) of the plugin, you can add the "
+"following code to the functions.php file of your theme or inside your own "
+"plugin."
+msgstr ""
+
+#: views/admin/settings-help.php:115
+msgid "Adjusting auto slide delay"
+msgstr ""
+
+#: views/admin/settings-help.php:116
+msgid ""
+"To adjust the pause of each slide when auto slide is enabled for the slider "
+"layout, you can use the filter below. Please note that this is the time in "
+"milliseconds. The default pause is set to 6000 ms."
+msgstr ""
+
+#: views/admin/settings-help.php:119
+msgid "Overriding templates via a theme"
+msgstr ""
+
+#: views/admin/settings-help.php:120
+msgid ""
+"Template files contain the markup and template structure for frontend of "
+"your website."
+msgstr ""
+
+#: views/admin/settings-help.php:121
+msgid ""
+"Template files can be found within the <code>/kiyoh-klantenvertellen/"
+"templates/</code> directory."
+msgstr ""
+
+#: views/admin/settings-help.php:122
+msgid "How to edit files"
+msgstr ""
+
+#: views/admin/settings-help.php:123
+msgid ""
+"Edit files in an upgrade-safe way using overrides. Copy the template into a "
+"directory within your theme named <code>/kiyoh-klantenvertellen</code> "
+"keeping the same file structure but removing the <code>/templates/</code> "
+"subdirectory."
+msgstr ""
+
+#: views/admin/settings-help.php:124
+#, php-format
+msgid ""
+"Example: To override the slider layout, copy: <code>wp-content/plugins/kiyoh-"
+"klantenvertellen/templates/slider.php</code> to %s"
+msgstr ""
+
+#: views/admin/settings-help.php:125
+msgid "The copied file will now override the default template file."
+msgstr ""
+
+#: views/admin/settings-help.php:126
+msgid "Warning:"
+msgstr ""
+
+#: views/admin/settings-help.php:126
+msgid ""
+"Do not edit these files within the core plugin itself as they are "
+"overwritten during the upgrade process and any customizations will be lost."
+msgstr ""
+
+#: views/admin/settings.php:8
+msgid "Show reviews from KiyOh or Klantenvertellen.nl with a shortcode."
+msgstr ""
+
+#: views/admin/settings.php:11
+msgid "Default settings"
+msgstr ""
+
+#: views/admin/settings.php:13
+msgid "WooCommerce invites"
+msgstr ""
+
+#: views/admin/settings.php:15
+msgid "Help"
+msgstr ""
+
+#: views/admin/settings.php:33
+#, php-format
+msgid "This plugin is brought to you by %s"
+msgstr ""
+
+#: views/admin/settings.php:43
+#, php-format
+msgid ""
+"KiyOh / Klantenvertellen plugin will save review data from your KiyOh or "
+"Klantenvertellen account. This data could contain personal data of your "
+"reviewers. Data is stored in %s on your own website. This data is not shared "
+"with the developer of this plugin or with others."
+msgstr ""
+
+#: views/admin/settings.php:43
+msgid "WordPress options table"
+msgstr ""
+
+#~ msgid "Klantenvertellen Tenant ID"
+#~ msgstr "Klantenvertellen Tenant ID"
+
+#~ msgid "Optional. Ask your %s accountmanager for more information."
+#~ msgstr "Optioneel. Vraag je %s accountmanager om meer informatie."
+
+#~ msgid "KiyOh Tenant ID"
+#~ msgstr "KiyOh Tenant ID"
+
+#, fuzzy
+#~| msgid "You may always call us for new projects, but unfortunately we %s"
+#~ msgid "You may always call us for new projects, but unfortunately we %s."
+#~ msgstr ""
+#~ "Je mag ons altijd bellen voor nieuwe projecten, maar helaas hebben we %s"
+
+#~ msgid "cannot provide support by phone"
+#~ msgstr "geen telefonische helpdesk"
+
+#~ msgid "Please don't call us for plugin related questions"
+#~ msgstr "Bel ons alsjeblieft niet voor plugin gerelateerde vragen."
+
+#~ msgid ""
+#~ "Below you'll find a list of all custom review questions. Choose which "
+#~ "question you want to show for each single review."
+#~ msgstr ""
+#~ "Hieronder vind je een lijst met alle aangepaste beoordelingsvragen. Kies "
+#~ "welke vraag je wilt tonen voor iedere beoordeling."
+
+#~ msgid "Review data is only shown when available."
+#~ msgstr "Beoordelingsgegevens worden alleen getoond wanneer beschikbaar."
+
+#~ msgid "Review question is not shown if review question has no answers."
+#~ msgstr ""
+#~ "Beoordelingsvragen worden niet getoond als er geen antwoord is gegeven."
+
+#~ msgid ""
+#~ "You might need to save your settings again if you've changed your review "
+#~ "form."
+#~ msgstr ""
+#~ "Het kan zijn dat je je instellingen opnieuw moet bewaren als je je "
+#~ "beoordelingsformulier hebt aangepast."
+
+#~ msgid "By a widget, so you can show your reviews in a sidebar"
+#~ msgstr "Via een widget, zodat je beoordelingen in een sidebar kunt tonen"
+
+#~ msgid "Example Invite link"
+#~ msgstr "Voorbeeld Easy Invite link"
+
+#~ msgid "Yes, I want to create a new backup of all old customer reviews."
+#~ msgstr ""
+#~ "Ja, ik wil een nieuwe back-up maken van alle oude klantbeoordelingen."
+
+#~ msgid ""
+#~ "Just send us an e-mail if you have a new idea for our plugin or if we can "
+#~ "help you with your website."
+#~ msgstr ""
+#~ "Stuur ons gerust een mailtje als je een idee hebt voor de plugin of als "
+#~ "wij je kunnen helpen met je website."
+
+#~ msgid ""
+#~ "Together we go for more %s and even better customer reviews! Curious? "
+#~ "Check our website or send us an e-mail at %s"
+#~ msgstr ""
+#~ "Samen gaan we voor meer %s en nog betere klantbeoordelingen! "
+#~ "Nieuwsgierig? Check onze website of stuur een mail naar %s"
+
+#~ msgid "Passion and Pleasure"
+#~ msgstr "Passie En Plezier"
+
+#~ msgid ""
+#~ "%s will stop using the old XML method from mid-September, so make sure "
+#~ "you save the old data locally before that time if you still want to show "
+#~ "old reviews"
+#~ msgstr ""
+#~ "%s stopt met het gebruik van de oude XML-methode vanaf half september. "
+#~ "Zorg er voor dat je je oude gegevens lokaal hebt opgeslagen als je je "
+#~ "oude beoordelingen nog steeds wilt tonen."
+
+#~ msgid "Yes, I want to save all old customer reviews locally."
+#~ msgstr ""
+#~ "Ja, ik wil een lokale back-up maken van alle oude klantbeoordelingen."
+
+#~ msgid ""
+#~ "Only available for Klantenvertellen version 2 users. Use HTML and "
+#~ "placeholders to show custom review data. See %s for more information."
+#~ msgstr ""
+#~ "Alleen beschikbaar voor Klantenvertellen versie 2 gebruikers. Gebruik "
+#~ "HTML en placeholders om aangepaste review gegevens te tonen. Zie %s voor "
+#~ "meer informatie."
+
+#~ msgid "documentation"
+#~ msgstr "documentatie"
+
+#~ msgid "Don't show stars"
+#~ msgstr "Geen sterren tonen"
+
+#~ msgid "You can find the Location ID on \"your account\" by logging in on %s"
+#~ msgstr ""
+#~ "Je kunt het Location ID vinden onder 'Mijn account' door in te loggen op "
+#~ "%s"
+
+#~ msgid "KiyOh"
+#~ msgstr "KiyOh"
+
+#~ msgid ""
+#~ "For example: Is your klantenvertellen (mobiliteit) url %s? Then you fill "
+#~ "in \"%s\""
+#~ msgstr ""
+#~ "Bijvoorbeeld: Is jouw  klantenvertellen (mobiliteit) url %s? Vul dan in: "
+#~ "\"%s\""
+
+#~ msgid "Only show reviews with rating higher than"
+#~ msgstr "Toon alleen reviews met een score hoger dan"
+
+#~ msgid "Logo"
+#~ msgstr "Logo"

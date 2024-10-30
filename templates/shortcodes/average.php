@@ -1,0 +1,1 @@
+<span class="kk-average-rating"><?php echo $data['total_score']; ?></span>

@@ -1,0 +1,179 @@
+@import url('../css/frontend.css');
+.kk-plugin-disabled label, .kk-plugin-disabled span{opacity:0.5;}
+
+.kk-plugin-main-settings {
+    float: left;
+    width: 70%;
+}
+.kk-plugin-main-settings .description strong {font-style:normal;}
+
+.kk-plugin-main-settings hr {
+    margin: 40px auto;
+}
+
+.kk-plugin-main-settings * {
+    box-sizing: border-box;
+}
+
+.kk-plugin-main-settings textarea:not(.textarea-custom-fields) {
+    min-width: 600px;
+    min-height: 200px;
+}
+
+.kk-plugin-main-settings textarea.textarea-custom-fields {width:100%;min-height:150px;}
+
+.kk-plugin-sidebar {
+    float          : right;
+    width          : 24%;
+    margin-right   : 2%;
+}
+
+.kk-plugin-sidebar .kk-single-sidebar-box {
+    margin-top: 10px;
+}
+
+.kk-plugin-sidebar .kk-single-sidebar-box.box-1 {
+    background     : url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHQAAADICAYAAAA5ksUpAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAABI1JREFUeNrs3bFvHEUUgPFZdC0ofSLhCkGVLpQIQZ9/ACrqNKmQIlkKUhA0gYg6kh366OhBupRx5VRBri4SrjmF1tKyc76DOMr51vbu7Ozu75O2ya196/myb9682XtXnBwVZcBgeM8QEApCQSgIBaGEglAQCkJBKKEgFISCUBBKKAgFoSAUhBIKQkEoCAWhhIJQEIommNQ56dVxCPtP013UZ59Wx63Nr3/3S9pB2r2z+bVnB9XxPJ+xqSV0fhwHMd2nDndDsUVomVhosVno87zGRsg1h4JQEApCQSihGEJhoQ7XPgjh5ifbz3vxMoTF6/b/sHgt8ZrOI15HvJ62STk2kyYH8I9fi63nffF1maSy8vDe+QvwZVHgoLqer8ok/7lSjY2Qaw4FoSAUhIJQQkEoCAWhIJRQEApCQSgIJRSEglAQCkIJBaEgFISCUEJBKAgFoSCUUBCKDpkYgvQsWwH8GcKrv07b7r14WYbFP830DCQ0AVHcN9+WK3nt9pggNAFR5DxRN1NzqKQIkqJc5rLjcGYe++33ktC+8ORp7PlThGcHZbIGU4S2yGlL9TKMDVlupuxcD+HDGyHc/Di2liuWveavvb+9xRyhHbLuAbiUd734rz/htpZ2nQtdJiGrSkhcZI9R3O0vm5OWRGhMPNZfebF4XZ4pbY2dKPHxD0WS95o0eRem6GwJc+iF76bTkFjU7nNLaEYZ5M6N4o3ExB06uLSf0Ex5/GPRWiaZM4rz7tB2iCFxvcCOazb0QOj/81jx1hxHRLZC1xkjaT0XGu++Ol9lAUkRCCUUhIJQEApCCQWhIBSEglBCQSgIBaEgFMN9jPPug7Kxx1769CTGYIWO5RPbQi6hIBSEglAQSih6Rq11aPyMyu6dYus5qdh2LSmJHwHZDfmMTXFyVOh0IeSCUBAKQgk1BCNctsStqLvfS4YvS2xJ8PBeRr3+mvpOEQi5IJRQEApCQSgIHT2N7Yfi/PFLhf1QIReEglAQCkIJBaEgFISCUEJBKNIxrY7PfSFsv1lUx6Pq2Jt8VM7jPxDaTw6jyEri3tsvENovosD9SuRs0wmE5k8MpftvhtXzIDRfZqu7ce8iP0RonmE1zo+Hl/lhQvMJq+tsdXGVX0Ro92E13o3Tpn4hod2sHaPA+3WSHELzDqv3o8yrhlVCu2W6CquzFG9GaHthdZ2tzlO+MaHNcrjKVlsNq4SmWTvupwqrhLYXVs/sdOQAoZdbO164JEdonmH10iU5QvNZO8adjp+7SnIIbS6sNlqSI7SbJKe1khyhacNqIzsdhHbLdJWtTof0R41NaGclOUKbD6ut73QQmmbtmEVJjtCrhdXsSnKEXpyNDx8T2r+wmn1JjtDtSU6vSnKEvptZyHing9D6Sc5UWO2/0HkYUEluzEJnoac7HYSeDavrbHVOS3+FRnmjKMkNXWjSh48JbS+sjrYkNyShSnIDEboXRrbTMUShMZTW7geAfIXOgpLcIISu145Kcj0WOg9KcoMQOgtKcr0XOoiHjwlVkhuMUCW5vnNyVPxdHT9Vx47R6D//CjAAdm5duR32Z1gAAAAASUVORK5CYII=') no-repeat 20px 0 #fff;
+    background-size: auto 100px;
+    padding        : 10px 20px 10px 100px;
+    box-sizing     : border-box;
+}
+
+.kk-plugin-sidebar .kk-single-sidebar-box.disclaimer {
+    font-size: 0.8em;
+    color: #8e8e8e;
+    line-height: 1.4;
+    margin-top: 30px;
+}
+
+.kk-clearfix {
+    clear: both;
+}
+
+.kk-notice {
+    background: #dc0303;
+    padding   : 10px;
+    color     : #FFF;
+}
+
+.kk-success {
+    background: #509600;
+    padding   : 10px;
+    color     : #FFF;
+}
+
+#kk-plugin-default-settings .kk-plugin-default-settings-form {
+    float: left;
+    width: 60%;
+}
+
+#kk-plugin-default-settings .kk-plugin-default-settings-example {
+    float      : right;
+    width      : 35%;
+    background : #FFF;
+    padding    : 10px 50px 30px;
+    line-height: 1.4;
+    margin-top : 20px;
+    box-sizing : border-box;
+}
+
+#kk-plugin-default-settings .kk-plugin-default-settings-example h3 {
+    text-align    : center;
+    text-transform: uppercase;
+}
+#kk-plugin-default-settings .kk-plugin-default-settings-example .kk-reviews-list h3 {text-align:left;text-transform:none;}
+
+#kk-plugin-default-settings .kk-plugin-default-settings-example p {
+    text-align: center;
+    margin-top: -15px;
+    margin-bottom: 26px;
+    font-size: 0.9em;
+    color: #929292;
+    border-bottom: 1px solid #ececec;
+    padding-bottom: 20px;
+}
+
+ul.kk-plugin-shortcode-options span {
+    display: inline-block;
+}
+
+ul.kk-plugin-shortcode-options .kk-plugin-option-name {
+    width: 250px;
+}
+
+/* Clear transients */
+
+#kk-plugin-clear-transient {
+    border-top: 2px solid #dedede;
+    margin-top: 20px;
+    padding-top: 20px;
+}
+
+#kk-plugin-clear-transient a.button-secondary {
+    float: left;
+    margin-right: 20px;
+}
+
+#kk-plugin-clear-transient .kk-plugin-clear-transient-description {
+    float: left;
+    color: #555d66;
+    margin-top: 6px;
+    font-size: 11px;
+}
+
+@media screen and (max-width: 1300px) {
+    .kk-plugin-sidebar {
+        background-size: calc(100% - 40px) auto;
+    }
+
+    #kk-plugin-default-settings .kk-plugin-default-settings-example {
+        padding: 10px 20px 40px;
+    }
+}
+@media screen and (max-width: 1200px) {
+    .kk-plugin-main-settings,
+    .kk-plugin-sidebar {
+        width  : 100%;
+        display: block;
+        float  : none;
+    }
+
+    .kk-plugin-sidebar {
+        border         : 1px solid #ccc;
+        max-width      : 500px;
+        margin         : 60px auto 0;
+        background-size: 240px auto;
+    }
+
+    code {
+        -ms-word-break: break-all;
+        word-break    : break-all;
+    }
+}
+@media screen and (max-width: 800px) {
+    #kk-plugin-default-settings .kk-plugin-default-settings-form {
+        width  : 100%;
+        display: block;
+        clear  : both;
+        float  : none;
+    }
+
+    #kk-plugin-default-settings .kk-plugin-default-settings-example {
+        width  : 90%;
+        margin : 50px auto 20px;
+        float  : none;
+        display: block;
+        clear  : both;
+        padding: 10px 50px 30px;
+    }
+}
+@media screen and (max-width: 500px) {
+    .kk-plugin-sidebar {
+        padding: 90px 10px 10px;
+    }
+
+    #kk-plugin-default-settings .kk-plugin-default-settings-example {
+        width  : 100%;
+        padding: 10px 10px 30px;
+    }
+}
